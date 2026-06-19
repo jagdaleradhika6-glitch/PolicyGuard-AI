@@ -1,6 +1,6 @@
-# PolicyLens AI
+# PolicyGuard AI
 
-PolicyLens AI is an AI-powered policy analysis platform that enables users to upload, manage, and analyze policy documents through a secure full-stack web application. The platform provides authentication, document management, AI-assisted policy insights, and administrative controls.
+PolicyGuard AI is an AI-powered policy analysis platform that enables users to upload, manage, and analyze policy documents through a secure full-stack web application. The platform provides authentication, document management, AI-assisted policy insights, and administrative controls.
 
 ## Features
 
